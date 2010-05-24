@@ -156,42 +156,42 @@
             ],
         },
         {
-            name: "Live Wallpapers"
+            name: "Live Wallpapers",
             options:
             [
             {
                 name: "Nexus Blue",
                 urls:
                 [
-                "http://www.4shared.com/file/257827653/9ce38885/Nexus-Blue.html"
+                "http://dc131.4shared.com/download/257827653/9ce38885/Nexus-Blue.zip?tsid=20100524-014029-d7a5f0ae"
                 ],
             },
             {
                 name: "Nexus Green",
                 urls:
                 [
-                "http://www.4shared.com/file/257827457/980a98f2/Nexus-Green.html"
+                "http://dc131.4shared.com/download/257827457/980a98f2/Nexus-Green.zip?tsid=20100524-014243-ae51c89c"
                 ],
             },
             {
                 name: "Nexus Original",
                 urls:
                 [
-                "http://www.4shared.com/file/257826865/ec8f341c/Nexus-Original.html"
+                "http://dc131.4shared.com/download/257826865/ec8f341c/Nexus-Original.zip?tsid=20100524-014347-5052e4ae"
                 ],
             },
             {
                 name: "Nexus Red",
                 urls:
                 [
-                "http://www.4shared.com/file/257827293/375f6f55/Nexus-Red.html"
+                "http://dc131.4shared.com/download/257827293/375f6f55/Nexus-Red.zip?tsid=20100524-014458-b7cd4a37"
                 ],
             },
             {
                 name: "Nexus Yellow",
                 urls:
                 [
-                "http://www.4shared.com/file/257826968/93fc2296/Nexus-Yellow.html"
+                "http://dc131.4shared.com/download/257826968/93fc2296/Nexus-Yellow.zip?tsid=20100524-014600-d4dbaf12"
                 ],
             }
             ],
