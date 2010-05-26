@@ -11,7 +11,7 @@
         incremental: 1,
         urls:
         [
-        "http://www.4shared.com/file/rgrU_6IR/SimplyStunning-v32-update-them.html"
+        "http://dc265.4shared.com/download/294347619/9b9aae2e/SimplyStunning-v32-update-them.zip?tsid=20100526-133323-3dd58085"
         ]
     },
     {
@@ -22,7 +22,7 @@
         incremental: 1,
         urls:
         [
-        "http://www.4shared.com/file/Z3tXQOtg/SimplyStunning-v32-update-noth.html"
+        "http://dc265.4shared.com/download/294331577/bf75193a/SimplyStunning-v32-update-noth.zip?tsid=20100526-133657-3b69351b"
         ]
     },
     {
@@ -45,7 +45,7 @@
                 name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/1OT8u53q/ChevyNo1-10Ghz-lowV-7slot-upda.html"
+                "http://dc266.4shared.com/download/294719620/7ac5ff1c/ChevyNo1-10Ghz-lowV-7slot-upda.zip?tsid=20100526-133758-b70a9c32"
                 ],
             },
             {
