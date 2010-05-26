@@ -52,105 +52,105 @@
                 name: "ChevyNo1 7-slot Low Voltage 1.1Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/sZFS51dA/ChevyNo1-11Ghz-lowV-7slot-upda.html"
+                "http://dc266.4shared.com/download/294717997/ecd6837a/ChevyNo1-11Ghz-lowV-7slot-upda.zip?tsid=20100526-162922-fc60e6a9"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Low Voltage 1.2Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/dLjozqmc/ChevyNo1-12Ghz-lowV-7slot-upda.html"
+                "http://dc266.4shared.com/download/294715745/17e1799a/ChevyNo1-12Ghz-lowV-7slot-upda.zip?tsid=20100526-163018-ed4b06f9"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Low Voltage 1.25Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/VVWrronG/ChevyNo1-125Ghz-lowV-7slot-upd.html"
+                "http://dc266.4shared.com/download/294713559/21a38f42/ChevyNo1-125Ghz-lowV-7slot-upd.zip?tsid=20100526-163111-29c9a21d"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Medium Voltage 1.0Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/71dQLtd1/ChevyNo1-10Ghz-medV-7slot-upda.html"
+                "http://dc266.4shared.com/download/294702937/1c87b272/ChevyNo1-10Ghz-medV-7slot-upda.zip?tsid=20100526-163252-fb5c91ee"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Medium Voltage 1.1Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/dOeA4t_5/ChevyNo1-11Ghz-medV-7slot-upda.html"
+                "http://dc266.4shared.com/download/294700888/c407d494/ChevyNo1-11Ghz-medV-7slot-upda.zip?tsid=20100526-163309-aa3e3469"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Medium Voltage 1.2Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/I3h9ZaOi/ChevyNo1-12Ghz-medV-7slot-upda.html"
+                "http://dc266.4shared.com/download/294699330/9e3994d2/ChevyNo1-12Ghz-medV-7slot-upda.zip?tsid=20100526-163407-91764898"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Medium Voltage 1.25Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/8AszGh_Z/ChevyNo1-125Ghz-medV-7slot-upd.html"
+                "http://dc266.4shared.com/download/294698293/44a120b0/ChevyNo1-125Ghz-medV-7slot-upd.zip?tsid=20100526-163417-f9851606"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/HG-M1Dcz/ChevyNo1-10Ghz-lowV-5slot-upda.html"
+                "http://dc266.4shared.com/download/294711864/d6eefbe4/ChevyNo1-10Ghz-lowV-5slot-upda.zip?tsid=20100526-163546-b02166ca"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Low Voltage 1.1Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/hAlqkXCo/ChevyNo1-11Ghz-lowV-5slot-upda.html"
+                "http://dc266.4shared.com/download/294709481/c9c9dade/ChevyNo1-11Ghz-lowV-5slot-upda.zip?tsid=20100526-163559-8daf789f"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Low Voltage 1.2Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/cd9ZST1w/ChevyNo1-12Ghz-lowV-5slot-upda.html"
+                "http://dc266.4shared.com/download/294707488/50ca1549/ChevyNo1-12Ghz-lowV-5slot-upda.zip?tsid=20100526-163629-b8053ac7"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Low Voltage 1.25Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/CCa1Oc2L/ChevyNo1-125Ghz-lowV-5slot-upd.html"
+                "http://dc266.4shared.com/download/294704166/3d8f78c5/ChevyNo1-125Ghz-lowV-5slot-upd.zip?tsid=20100526-163617-42e94c08"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Medium Voltage 1.0Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/n89UGE0J/ChevyNo1-10Ghz-medV-5slot-upda.html"
+                "http://dc266.4shared.com/download/294697013/d79f6e80/ChevyNo1-10Ghz-medV-5slot-upda.zip?tsid=20100526-163804-5c97bec3"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Medium Voltage 1.1Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/9Ug9Yayi/ChevyNo1-11Ghz-medV-5slot-upda.html"
+                "http://dc266.4shared.com/download/294695830/d8bac48b/ChevyNo1-11Ghz-medV-5slot-upda.zip?tsid=20100526-163828-7b544abf"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Medium Voltage 1.2Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/SnIa27y5/ChevyNo1-12Ghz-medV-5slot-upda.html"
+                "http://dc266.4shared.com/download/294694460/146baecf/ChevyNo1-12Ghz-medV-5slot-upda.zip?tsid=20100526-163842-c1480cd7"
                 ],
             },
             {
                 name: "ChevyNo1 5-slot Medium Voltage 1.25Ghz",
                 urls:
                 [
-                "http://www.4shared.com/file/-dWkzFlY/ChevyNo1-125Ghz-medV-5slot-upd.html"
+                "http://dc266.4shared.com/download/294692762/dd482e66/ChevyNo1-125Ghz-medV-5slot-upd.zip?tsid=20100526-163950-60cc41e5"
                 ],
             }
             ],
