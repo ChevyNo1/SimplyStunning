@@ -45,28 +45,28 @@
                 name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://dc266.4shared.com/download/294719620/7ac5ff1c/ChevyNo1-10Ghz-lowV-7slot-upda.zip?tsid=20100526-133758-b70a9c32"
+                "http://chevyno1.richstevenson.com/3.3/kernels/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Low Voltage 1.1Ghz",
                 urls:
                 [
-                "http://dc266.4shared.com/download/294717997/ecd6837a/ChevyNo1-11Ghz-lowV-7slot-upda.zip?tsid=20100526-162922-fc60e6a9"
+                "http://chevyno1.richstevenson.com/3.3/kernels/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Low Voltage 1.2Ghz",
                 urls:
                 [
-                "http://dc266.4shared.com/download/294715745/17e1799a/ChevyNo1-12Ghz-lowV-7slot-upda.zip?tsid=20100526-163018-ed4b06f9"
+                "http://chevyno1.richstevenson.com/3.3/kernels/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
                 ],
             },
             {
                 name: "ChevyNo1 7-slot Low Voltage 1.25Ghz",
                 urls:
                 [
-                "http://dc266.4shared.com/download/294713559/21a38f42/ChevyNo1-125Ghz-lowV-7slot-upd.zip?tsid=20100526-163111-29c9a21d"
+                "http://chevyno1.richstevenson.com/3.3/kernels/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
                 ],
             },
             {
