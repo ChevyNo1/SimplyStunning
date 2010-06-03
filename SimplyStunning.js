@@ -11,7 +11,7 @@
         incremental: 1,
         urls:
         [
-        "http://chevyno1.richstevenson.com/3.3/SimplyStunning-v3.2-update-theme.zip"
+        "http://chevyno1.richstevenson.com/3.2/SimplyStunning-v3.2-update-theme.zip"
         ]
     },
     {
