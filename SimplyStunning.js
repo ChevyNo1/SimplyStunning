@@ -11,7 +11,7 @@
         incremental: 1,
         urls:
         [
-        "http://dc265.4shared.com/download/294347619/9b9aae2e/SimplyStunning-v32-update-them.zip?tsid=20100526-133323-3dd58085"
+        "http://chevyno1.richstevenson.com/3.3/SimplyStunning-v3.2-update-theme.zip"
         ]
     },
     {
