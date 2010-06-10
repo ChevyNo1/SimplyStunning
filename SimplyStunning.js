@@ -56,14 +56,56 @@
                 name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://chevyno1.richstevenson.com/froyokernels/froyo-ulowv-7slot-1.0.zip"
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.1Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.2Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.25Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
                 ],
             },
             {
                 name: "ChevyNo1 FROYO 7-slot Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://chevyno1.richstevenson.com/froyokernels/froyo-lowv-7slot-1.0.zip"
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Low Voltage 1.1Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Low Voltage 1.2Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Low Voltage 1.25Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
                 ],
             },
             {
