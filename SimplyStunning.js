@@ -4,6 +4,17 @@
     roms:
     [
     {
+        name: "FROYO v4.0 - Blue Theme - NANDROID",
+        summary: "6/10/2010",
+        device: "sholes",
+        product: "Simply Stunning",
+        incremental: 1,
+        urls:
+        [
+        "http://chevyno1.richstevenson.com/4.0/SimplyStunning-v4.0.zip"
+        ]
+    },
+    {
         name: "v3.3 with Blue Theme",
         summary: "6/9/2010",
         device: "sholes",
@@ -41,6 +52,20 @@
             name: "Kernels",
             options:
             [
+            {
+                name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.0Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/froyo-ulowv-7slot-1.0.zip"
+                ],
+            },
+            {
+                name: "ChevyNo1 FROYO 7-slot Low Voltage 1.0Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/froyo-lowv-7slot-1.0.zip"
+                ],
+            },
             {
                 name: "ChevyNo1 7-slot Ultra Low Voltage 1.0Ghz",
                 urls:
