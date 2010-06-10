@@ -15,7 +15,7 @@
         ]
     },
     {
-        name: "v3.2 with Stock Theme",
+        name: "v3.3 with Stock Theme",
         summary: "6/9/2010",
         device: "sholes",
         product: "Simply Stunning",
