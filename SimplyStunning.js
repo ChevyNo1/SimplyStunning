@@ -14,6 +14,32 @@
         [
         "http://chevyno1.richstevenson.com/4.0/SimplyStunning-v4.0.zip"
         ]
-    }
+    },
+    {
+        name: "ChevyNo1 Tweaker",
+        summary: "Kernels and LiveWallpaper Options",
+        device: "sholes",
+        product: "SimplyStunning",
+        incremental: 1,
+        urls:
+        [
+        ""
+        ],
+        choices:
+        [
+        {
+            name: "Kernels",
+            options:
+            [
+            {
+                name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.0Ghz",
+                urls:
+                [
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
+                ],
+            }
+            ]
+       }
+       ]
     ]
 }
