@@ -190,47 +190,6 @@
                 urls:
                 [
                 "http://chevyno1.richstevenson.com/kernels3/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
-                ],
-            }
-            ],
-        },
-        {
-            name: "Live Wallpapers",
-            options:
-            [
-            {
-                name: "Nexus Blue",
-                urls:
-                [
-                "http://chevyno1.richstevenson.com/lwp/Nexus-Blue.zip"
-                ],
-            },
-            {
-                name: "Nexus Green",
-                urls:
-                [
-                "http://chevyno1.richstevenson.com/lwp/Nexus-Green.zip"
-                ],
-            },
-            {
-                name: "Nexus Red",
-                urls:
-                [
-                "http://chevyno1.richstevenson.com/lwp/Nexus-Red.zip"
-                ],
-            },
-            {
-                name: "Nexus Yellow",
-                urls:
-                [
-                "http://chevyno1.richstevenson.com/lwp/Nexus-Yellow.zip"
-                ],
-            },
-            {
-                name: "Nexus Original",
-                urls:
-                [
-                "http://chevyno1.richstevenson.com/lwp/Nexus-Original.zip"
                 ]
             }
             ]
