@@ -34,17 +34,17 @@
                 name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
-                ],
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip",
+                ]
             },
             {
                 name: "ChevyNo1 FROYO 7-slot Ultra Low Voltage 1.0Ghz",
                 urls:
                 [
-                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
-                ],
+                "http://chevyno1.richstevenson.com/froyokernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip",
+                ]
             }
-            ],
+            ]
         },
         {
             name: "Live Wallpapers"
@@ -55,9 +55,9 @@
                 urls:
                 [
                 ""
-                ],
+                ]
             }
-            ],
+            ]
         }
         ]
     }
