@@ -231,8 +231,8 @@
                 urls:
                 [
                 "http://chevyno1.richstevenson.com/lwp/Nexus-Original.zip"
-                ],
-            },
+                ]
+            }
             ]
         }
         ]
