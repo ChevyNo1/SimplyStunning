@@ -25,21 +25,21 @@
 	choices:
         [
         {
-            name: "Kernel",
+            name: "Kernels",
             options:
             [
             {
-                name: "Overclocked",
+                name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
                 urls:
                 [
-                ""
+                "http://dc266.4shared.com/download/294719620/7ac5ff1c/ChevyNo1-10Ghz-lowV-7slot-upda.zip?tsid=20100526-133758-b70a9c32"
                 ]
             },
             {
                 name: "Stable",
                 urls:
                 [
-                "http://clockworkmod.s3.amazonaws.com/motorola/sholes/kernel_nooverlock_1.0.2.zip"
+                ""
                 ]
             }
             ]
