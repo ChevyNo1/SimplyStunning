@@ -24,6 +24,55 @@
         [
         "http://dc265.4shared.com/download/294331577/bf75193a/SimplyStunning-v32-update-noth.zip?tsid=20100526-133657-3b69351b"
         ]
-    }
+        choices:
+        [
+        {
+            name: "Kernels:",
+            options:
+            [
+            {
+                name: "600Mhz 5 Slot LV\nby Bekit",
+                urls:
+                [
+                "",
+                ]
+            },
+            {
+	        name: "800Mhz 7 Slot LV\nby Bekit",
+	        urls:
+	        [
+	        "http://androidoverdrive.com/pete/ESE81/KERNEL/BEKIT7X800LV.zip",
+	        ]
+            },
+            {
+	    	name: "1.0Ghz 7 Slot LV\nby Bekit",
+	    	urls:
+	    	[
+	    	"http://androidoverdrive.com/pete/ESE81/KERNEL/BEKIT7X1000LV.zip",
+	    	]
+            },
+            {
+	    	name: "1.1Ghz 7 Slot LV\nby Bekit",
+	    	urls:
+	    	[
+	    	"http://androidoverdrive.com/pete/ESE81/KERNEL/BEKIT7X1100LV.zip",
+	    	]
+            },
+            {
+	    	name: "1.2Ghz 7 Slot IV\nby Bekit",
+	    	urls:
+	    	[
+	    	"http://androidoverdrive.com/pete/ESE81/KERNEL/BEKIT7X1200IV.zip",
+	    	]
+            },
+            {
+	    	name: "1.3Ghz 7 Slot IV\nby Bekit",
+	    	urls:
+	    	[
+	    	"http://androidoverdrive.com/pete/ESE81/KERNEL/BEKIT7X1300IV.zip",
+	    	]
+            }
+            ]
+            }
     ]
 }
