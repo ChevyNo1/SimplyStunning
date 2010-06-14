@@ -13,8 +13,16 @@
         urls:
         [
 		"http://chevyno1.richstevenson.com/4.0/SimplyStunning-v4.0.zip"
-        ],
-        choices:
+        ]
+    },
+    {
+
+		name: "Addons",
+		summary: "6/10/2010",
+		device: "sholes",
+		product: "Simply Stunning",
+		incremental: 1,
+		choices:
         [
         {
             name: "Kernel",
