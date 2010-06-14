@@ -151,9 +151,9 @@
                 urls:
                 [
                 "http://dc266.4shared.com/download/294692762/dd482e66/ChevyNo1-125Ghz-medV-5slot-upd.zip?tsid=20100526-163950-60cc41e5"
-                ],
+                ]
             }
-            ],
+            ]
         }
         ]
     }
