@@ -1,28 +1,28 @@
 {
-    version: 1,
-    homepage: "http://www.droidforums.net/forum/chevyno1/",
-    donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GJYJRL97SAB3J",
-    roms:
-    [
-    {
+	version: 1,
+	homepage: "http://www.droidforums.net/forum/chevyno1/",
+	donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GJYJRL97SAB3J",
+	roms:
+	[
+	{
 		name: "FROYO v4.0 - Blue Theme - NANDROID",
 		summary: "6/10/2010",
 		device: "sholes",
 		product: "Simply Stunning",
 		incremental: 1,
-        urls:
-        [
-		"http://chevyno1.richstevenson.com/4.0/SimplyStunning-v4.0.zip"
-        ]
-    },
-    {
+	        urls:
+	        [
+			"http://chevyno1.richstevenson.com/4.0/SimplyStunning-v4.0.zip"
+	        ]
+	},
+	{
 
-		name: "Addons",
-		summary: "6/10/2010",
-		device: "sholes",
-		product: "Simply Stunning",
-		incremental: 1,
-		choices:
+	name: "Kernels & Live Wallpapers",
+	summary: "6/10/2010",
+	device: "sholes",
+	product: "Simply Stunning",
+	incremental: 1,
+	choices:
         [
         {
             name: "Kernel",
