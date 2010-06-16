@@ -12,7 +12,7 @@
 		incremental: 41,
 	        urls:
 	        [
-			"http://chevyno1.richstevenson.com/4.1/SimplyStunning-4.1-update.zip"
+			"http://chevyno1.richstevenson.com/4.1/SimplyStunning-v4.1-update.zip"
 	        ]
 	},
 	{
