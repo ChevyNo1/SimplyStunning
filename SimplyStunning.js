@@ -5,7 +5,7 @@
 	roms:
 	[
 	{
-		name: "FROYO v4.1",
+		name: "Simply Stunning FROYO v4.1",
 		summary: "6/16/2010",
 		device: "sholes",
 		product: "Simply Stunning",
@@ -25,7 +25,6 @@
 	choices:
         [
         {
-            name: "Froyo Kernels",
             options:
             [
             {
