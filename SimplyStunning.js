@@ -115,6 +115,36 @@
 					]	
 				}
 			]
+		},
+		{
+			name: "Network Filesystems Support",
+			summary: "6/24/2010 - test",
+			device: "sholes",
+			product: "Simply Stunning",
+			incremental: 42,
+			choices:
+			[
+				{
+					name: "Filesystem Choices",
+					options:
+					[
+						{
+							name: "CIFS",
+							urls:
+							[
+								""
+							]
+						},
+						{
+							name: "NFS",
+							urls:
+							[
+								""
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
