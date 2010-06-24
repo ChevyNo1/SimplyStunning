@@ -117,7 +117,7 @@
 			]
 		},
 		{
-			name: "Network Filesystems Support",
+			name: "Filesystem Support including Network",
 			summary: "6/24/2010 - test",
 			device: "sholes",
 			product: "Simply Stunning",
