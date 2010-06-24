@@ -40,28 +40,21 @@
 							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Blue.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Blue.zip"
 							]
 						},
 						{
 							name: "Nexus LWP - SS Style Red",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Red.zip",
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Red.zip",
 							]
 						},
 						{
 							name: "Nexus LWP - SS Style Green",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Green.zip"
-							]
-						},
-						{
-							name: "Nexus LWP - SS Style Yellow",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Yellow.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Green.zip"
 							]
 						}
 					]
@@ -69,7 +62,7 @@
 			]
 		},
 		{
-			name: "Extras - Flash, Working MotoTorchLED, etc",
+			name: "Extras - Flash, MotoTorchLED, etc",
 			summary: "6/24/2010 - ",
 			device: "sholes",
 			product: "Simply Stunning",
@@ -84,14 +77,14 @@
 							name: "Android Flash - Beta 3",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/4.2/FlashPlayer-3.apk",
+								"http://chevyno1.richstevenson.com/froyo/4.2/FlashPlayer-3.apk",
 							]
 						},
 						{
 							name: "MotoTorchLED - Works on Froyo",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/4.2/MotoTorchLed.apk"
+								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLed.apk"
 							]
 						}
 					]
@@ -215,14 +208,35 @@
 							name: "CIFS",
 							urls:
 							[
-								""
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/cifs.zip"
 							]
 						},
 						{
 							name: "NFS",
 							urls:
 							[
-								""
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/nfs.zip"
+							]
+						},
+						{
+							name: "EXT2",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext2.zip"
+							]
+						},
+						{
+							name: "EXT3",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext3.zip"
+							]
+						},
+						{
+							name: "EXT4",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext4.zip"
 							]
 						}
 					]
