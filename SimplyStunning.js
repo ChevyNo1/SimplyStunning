@@ -6,7 +6,7 @@
 	[
 	{
 		name: "Simply Stunning FROYO v4.1",
-		summary: "6/16/2010",
+		summary: "6/16/2010 - Lots of tweaking/tuning scripts - includes bkapps/rstapps, which allows you to quickly load my ROM, even after wiping, and having everything back within 3 minutes  :)",
 		device: "sholes",
 		product: "Simply Stunning",
 		incremental: 41,
