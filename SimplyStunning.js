@@ -25,6 +25,32 @@
 			]
 		},
 		{
+			name: "Nexus Live Wallpaper Options",
+			summary: "6/24/2010 - ",
+			device: "sholes",
+			product: "Simply Stunning",
+			incremental: 42,
+			urls:
+			[
+				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Blue.zip",
+				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Red.zip",
+				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Yellow.zip",
+				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Green.zip"
+			]
+		},
+		{
+			name: "Extras - Flash, Working MotoTorchLED, etc",
+			summary: "6/24/2010 - ",
+			device: "sholes",
+			product: "Simply Stunning",
+			incremental: 42,
+			urls:
+			[
+				"http://chevyno1.richstevenson.com/4.2/FlashPlayer-3.apk",
+				"http://chevyno1.richstevenson.com/4.2/MotoTorchLed.apk"
+			]
+		},
+		{
 
 			name: "Froyo Kernels",
 			summary: "6/16/2010 - Includes 7 slot kernels, from 1Ghz - 1.25Ghz - Ultra Low Voltage / Low Voltage / Medium Voltage - If you bootloop, either go up in voltage or down in speed",
