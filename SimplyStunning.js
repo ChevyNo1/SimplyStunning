@@ -30,12 +30,42 @@
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
-			urls:
+			choices:
 			[
-				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Blue.zip",
-				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Red.zip",
-				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Yellow.zip",
-				"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Green.zip"
+				{
+					name: "Nexus Live Wallpapers",
+					options:
+					[
+						{
+							name: "Nexus LWP - SS Style Blue",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Blue.zip"
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Red",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Red.zip",
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Green",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Green.zip"
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Yellow",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/4.2/Nexus-SS-Yellow.zip"
+							]
+						}
+					]
+				}
 			]
 		},
 		{
@@ -44,10 +74,28 @@
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
-			urls:
+			choices:
 			[
-				"http://chevyno1.richstevenson.com/4.2/FlashPlayer-3.apk",
-				"http://chevyno1.richstevenson.com/4.2/MotoTorchLed.apk"
+				{
+					name: "Nexus Live Wallpapers",
+					options:
+					[
+						{
+							name: "Android Flash - Beta 3",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/4.2/FlashPlayer-3.apk",
+							]
+						},
+						{
+							name: "MotoTorchLED - Works on Froyo",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/4.2/MotoTorchLed.apk"
+							]
+						}
+					]
+				}
 			]
 		},
 		{
