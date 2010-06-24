@@ -1,4 +1,4 @@
-{
+	{
 	version: 1,
 	homepage: "http://www.droidforums.net/forum/chevyno1/",
 	donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GJYJRL97SAB3J",
@@ -10,6 +10,15 @@
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 41,
+		        screenshots: 
+			[ 
+				"http://chevyno1.richstevenson.com/screenshots/4.0/lockscreen.png", 
+				"http://chevyno1.richstevenson.com/screenshots/4.0/center.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.0/left.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.0/right.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.0/pulldown.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.0/music.png"
+			],
 			urls:
 			[
 				"http://chevyno1.richstevenson.com/4.1/SimplyStunning-v4.1-update.zip"
