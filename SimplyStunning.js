@@ -17,7 +17,7 @@
 	},
 	{
 
-	name: "Kernels",
+	name: "Froyo Kernels",
 	summary: "6/16/2010",
 	device: "sholes",
 	product: "Simply Stunning",
@@ -110,26 +110,6 @@
                 urls:
                 [
                 "http://chevyno1.richstevenson.com/froyokernels2/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
-                ]
-            }
-            ]
-        },
-        {
-            name: "Eclair Kernels",
-            options:
-            [
-            {
-                name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
-                urls:
-                [
-                "http://dc266.4shared.com/download/294719620/7ac5ff1c/ChevyNo1-10Ghz-lowV-7slot-upda.zip?tsid=20100526-133758-b70a9c32"
-                ]
-            },
-            {
-                name: "Stable",
-                urls:
-                [
-                ""
                 ]
             }
             ]
