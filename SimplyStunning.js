@@ -323,7 +323,7 @@
 							name: "All Of The Above",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/network-fs.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/all-fs.zip"
 							]
 						}
 					]
