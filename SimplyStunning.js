@@ -26,17 +26,17 @@
 		},
 		{
 			name: "Simply Stunning FROYO v4.2",
-			summary: "6/24/2010 - Lots of tweaking/tuning scripts - includes bkapps/rstapps, which allows you to quickly load my ROM, even after wiping, and having everything back within 3 minutes  :)",
+			summary: "6/25/2010 - Lots of tweaking/tuning scripts - includes bkapps/rstapps, which allows you to quickly load my ROM, even after wiping, and having everything back within 3 minutes  :)",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
 		        screenshots: 
 			[ 
 				"http://chevyno1.richstevenson.com/screenshots/4.2/lock.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.2/center.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.2/left.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.2/right.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.2/music.png"
+				"http://chevyno1.richstevenson.com/screenshots/4.2/center.jpg",
+				"http://chevyno1.richstevenson.com/screenshots/4.2/left.jpg",
+				"http://chevyno1.richstevenson.com/screenshots/4.2/right.jpg",
+				"http://chevyno1.richstevenson.com/screenshots/4.2/music.jpg"
 			],
 			choices:
 			[
@@ -64,7 +64,7 @@
 		},
 		{
 			name: "Nexus Live Wallpaper Options",
-			summary: "6/24/2010 - ",
+			summary: "6/25/2010 - Various Nexus LWP Color Options",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
