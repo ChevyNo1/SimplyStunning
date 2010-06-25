@@ -57,7 +57,7 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/SimplyStunning-v4.2-notheme-update.zip"
 							]
-						}
+						},
 						{
 							name: "bkapps - flash to my ROM EASILY :)",
 							urls:
