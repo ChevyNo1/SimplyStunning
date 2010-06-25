@@ -32,7 +32,7 @@
 			incremental: 42,
 		        screenshots: 
 			[ 
-				"http://chevyno1.richstevenson.com/screenshots/4.2/lock.png", 
+				"http://chevyno1.richstevenson.com/screenshots/4.2/lock.jpg", 
 				"http://chevyno1.richstevenson.com/screenshots/4.2/center.png",
 				"http://chevyno1.richstevenson.com/screenshots/4.2/left.png",
 				"http://chevyno1.richstevenson.com/screenshots/4.2/right.png",
