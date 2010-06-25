@@ -143,7 +143,7 @@
 							name: "MotoTorchLED - Works on Froyo - APK - Must be Installed",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLed.apk"
+								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.apk"
 							]
 						}
 					]
