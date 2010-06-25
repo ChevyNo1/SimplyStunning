@@ -6,7 +6,7 @@
 	[
 		{
 			name: "Simply Stunning FROYO v4.1",
-			summary: "6/16/2010 - Lots of tweaking/tuning scripts - includes bkapps/rstapps, which allows you to quickly load my ROM, even after wiping, and having everything back within 3 minutes  :)",
+			summary: "6/16/2010 - Lots of tweaking/tuning scripts",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 41,
@@ -104,14 +104,14 @@
 					options:
 					[
 						{
-							name: "Android Flash - Beta 3",
+							name: "Android Flash - Beta 3 - APK - Must be Installed",
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/FlashPlayer-3.apk",
 							]
 						},
 						{
-							name: "MotoTorchLED - Works on Froyo",
+							name: "MotoTorchLED - Works on Froyo - APK - Must be Installed",
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLed.apk"
