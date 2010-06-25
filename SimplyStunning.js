@@ -23,7 +23,7 @@
 			[
 				"http://chevyno1.richstevenson.com/4.1/SimplyStunning-v4.1-update.zip"
 			]
-		}
+		},
 		{
 			name: "Froyo Kernels",
 			summary: "6/16/2010 - Includes 7 slot kernels, from 1Ghz - 1.25Ghz - Ultra Low Voltage / Low Voltage / Medium Voltage - If you bootloop, either go up in voltage or down in speed",
