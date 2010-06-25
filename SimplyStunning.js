@@ -64,7 +64,7 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/bkapps.zip",
 							]
-						},
+						}
 					]
 				}
 			]
