@@ -133,10 +133,10 @@
 					options:
 					[
 						{
-							name: "Android Flash - Beta 3 - APK - Must be Installed",
+							name: "Android Flash - Beta 3",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/FlashPlayer-3.apk",
+								"http://chevyno1.richstevenson.com/froyo/4.2/FlashPlayer-3.zip",
 							]
 						},
 						{
