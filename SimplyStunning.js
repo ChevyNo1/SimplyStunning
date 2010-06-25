@@ -115,7 +115,7 @@
 		},
 		{
 			name: "Extras - Flash, MotoTorchLED, etc",
-			summary: "6/25/2010 - ",
+			summary: "6/25/2010",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
