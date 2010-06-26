@@ -57,27 +57,20 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/SimplyStunning-v4.2-notheme-update.zip"
 							]
-						},
-						{
-							name: "bkapps - flash to my ROM EASILY :)",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/bkapps.zip",
-							]
 						}
 					]
 				}
 			],
-addons:
-[
-						{
-							name: "MotoTorchLED - Works on Froyo",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
-							]
-						}
-]
+			addons:
+			[
+				{
+					name: "MotoTorchLED",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+					]
+				}
+			]
 		},
 		{
 			name: "Nexus Live Wallpaper Options",
@@ -139,7 +132,7 @@ addons:
 			choices:
 			[
 				{
-					name: "Extra APK's",
+					name: "Extra Tools",
 					options:
 					[
 						{
@@ -154,6 +147,13 @@ addons:
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+							]
+						},
+						{
+							name: "bkapps - flash to my ROM EASILY :)",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/bkapps.zip",
 							]
 						}
 					]
