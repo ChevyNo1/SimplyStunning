@@ -59,7 +59,14 @@
 							]
 						}
 					]
-				}
+				},
+				{
+					name: "MotoTorchLED",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+					]
+				},
 			],
 			addons:
 			[
@@ -71,10 +78,31 @@
 					]
 				},
 						{
-							name: "Nexus LWP - SS Style Silver/Blue",
+							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Silver-Blue.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Blue.zip"
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Red",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Red.zip",
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Green",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Green.zip"
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Yellow",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Yellow.zip"
 							]
 						}
 			]
