@@ -49,17 +49,7 @@
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/SimplyStunning-v4.2-update.zip"
-							],
-addons:
-[
-						{
-							name: "MotoTorchLED - Works on Froyo",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
 							]
-						}
-]
 						},
 						{
 							name: "Simply Stunning v4.2 - Stock Theme",
@@ -77,7 +67,17 @@ addons:
 						}
 					]
 				}
-			]
+			],
+addons:
+[
+						{
+							name: "MotoTorchLED - Works on Froyo",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+							]
+						}
+]
 		},
 		{
 			name: "Nexus Live Wallpaper Options",
