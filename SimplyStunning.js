@@ -183,6 +183,13 @@
 					options:
 					[
 						{
+							name: "No Thanks",
+							urls:
+							[
+								""
+							]
+						},
+						{
 							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
@@ -208,6 +215,61 @@
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Yellow.zip"
+							]
+						}
+					]
+				},
+				{
+					name: "Filesystem Choices",
+					addons:
+					[
+						{
+							name: "No Thanks",
+							urls:
+							[
+								""
+							]
+						},
+						{
+							name: "CIFS",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/cifs.zip"
+							]
+						},
+						{
+							name: "NFS",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/nfs.zip"
+							]
+						},
+						{
+							name: "EXT2",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext2.zip"
+							]
+						},
+						{
+							name: "EXT3",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext3.zip"
+							]
+						},
+						{
+							name: "EXT4",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext4.zip"
+							]
+						},
+						{
+							name: "All Of The Above",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/kernels/all-fs.zip"
 							]
 						}
 					]
