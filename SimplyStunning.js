@@ -65,6 +65,13 @@
 					options:
 					[
 						{
+							name: "No Thanks",
+							urls:
+							[
+								""
+							]
+						},
+						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 0.8Ghz",
 							urls:
 							[
@@ -170,17 +177,11 @@
 							]
 					    	}
 					]
-				}
-			],
-			addons:
-			[
-				{
-					name: "MotoTorchLED",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
-					]
 				},
+				{
+					name: "Add a Live Wallpaper?",
+					options:
+					[
 						{
 							name: "Nexus LWP - SS Style Blue",
 							urls:
@@ -209,6 +210,18 @@
 								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Yellow.zip"
 							]
 						}
+					]
+				}
+			],
+			addons:
+			[
+				{
+					name: "MotoTorchLED",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+					]
+				}
 			]
 		},
 		{
