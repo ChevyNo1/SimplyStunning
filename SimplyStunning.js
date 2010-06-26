@@ -62,10 +62,23 @@
 				},
 				{
 					name: "MotoTorchLED",
+			            options:
+			            [
+					{
+				                name: "No Thank You.",
+				                urls:
+				                [
+					                ""
+				                ]
+			            },
+			            {
+			            name: "Yes",
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
 					]
+				    }
+				]
 				}
 			],
 			addons:
