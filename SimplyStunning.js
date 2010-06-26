@@ -68,13 +68,15 @@
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
-					],
+					]
+				},
+						{
 							name: "Nexus LWP - SS Style Silver/Blue",
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Silver-Blue.zip"
 							]
-				}
+						},
 			]
 		},
 		{
