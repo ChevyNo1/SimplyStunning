@@ -38,6 +38,9 @@
 				"http://chevyno1.richstevenson.com/screenshots/4.2/right.jpg",
 				"http://chevyno1.richstevenson.com/screenshots/4.2/music.jpg"
 			],
+			choices:
+			[
+				{
 					name: "Simply Stunning FROYO v4.2",
 					options:
 					[
@@ -55,7 +58,9 @@
 								"http://chevyno1.richstevenson.com/froyo/4.2/SimplyStunning-v4.2-notheme-update.zip"
 							]
 						}
-					],
+					]
+				}
+			],
 			addons:
 			[
 				{
