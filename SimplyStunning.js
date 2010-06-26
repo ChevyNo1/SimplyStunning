@@ -76,7 +76,7 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Silver-Blue.zip"
 							]
-						},
+						}
 			]
 		},
 		{
