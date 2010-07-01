@@ -383,61 +383,55 @@
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
-			choices:
+			addons:
 			[
 				{
-					name: "Filesystem Choices",
-					options:
+					name: "MotoTorchLED",
+					urls:
 					[
-						{
-							name: "TUN (Tunelling)",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/tun.zip"
-							]
-						},
-						{
-							name: "CIFS",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/cifs.zip"
-							]
-						},
-						{
-							name: "NFS",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/nfs.zip"
-							]
-						},
-						{
-							name: "EXT2",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext2.zip"
-							]
-						},
-						{
-							name: "EXT3",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext3.zip"
-							]
-						},
-						{
-							name: "EXT4",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext4.zip"
-							]
-						},
-						{
-							name: "All Of The Above",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/all-fs.zip"
-							]
-						}
+						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+					]
+				},
+				{
+					name: "CIFS",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/kernels/cifs.zip"
+					]
+				},
+				{
+					name: "NFS",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/kernels/nfs.zip"
+					]
+				},
+				{
+					name: "EXT2",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext2.zip"
+					]
+				},
+				{
+					name: "EXT3",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext3.zip"
+					]
+				},
+				{
+					name: "EXT4",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/kernels/ext4.zip"
+					]
+				},
+				{
+					name: "All Of The Above",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/kernels/all-fs.zip"
 					]
 				}
 			]
