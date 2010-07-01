@@ -390,6 +390,13 @@
 					options:
 					[
 						{
+							name: "TUN (Tunelling)",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/tun.zip"
+							]
+						},
+						{
 							name: "CIFS",
 							urls:
 							[
