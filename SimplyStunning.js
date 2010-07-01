@@ -387,7 +387,7 @@
 			[
 				{
 					name: "Filesystem Choices",
-					addons:
+					options:
 					[
 						{
 							name: "TUN (Tunelling)",
