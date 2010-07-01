@@ -18,7 +18,7 @@
 				"http://chevyno1.richstevenson.com/screenshots/4.3/center.png",
 				"http://chevyno1.richstevenson.com/screenshots/4.3/left.png",
 				"http://chevyno1.richstevenson.com/screenshots/4.3/right.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.3/pulldown.png"
+				"http://chevyno1.richstevenson.com/screenshots/4.3/quadrant.png"
 			],
 			choices:
 			[
