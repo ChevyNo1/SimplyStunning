@@ -5,23 +5,254 @@
 	roms:
 	[
 		{
-			name: "Simply Stunning FROYO v4.1",
-			summary: "6/16/2010 - Lots of tweaking/tuning scripts",
+			name: "Simply Stunning FROYO v4.3",
+			summary: "7/1/2010 - 360 Degree Desktop/Launcher/Phone - Phone Proximity Sensor Fixed - lots more!",
 			device: "sholes",
 			product: "Simply Stunning",
-			incremental: 41,
+			incremental: 43,
 		        screenshots: 
 			[ 
-				"http://chevyno1.richstevenson.com/screenshots/4.0/lockscreen.png", 
-				"http://chevyno1.richstevenson.com/screenshots/4.0/center.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.0/left.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.0/right.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.0/pulldown.png",
-				"http://chevyno1.richstevenson.com/screenshots/4.0/music.png"
+				"http://chevyno1.richstevenson.com/screenshots/4.3/SS4.3-1.png", 
+				"http://chevyno1.richstevenson.com/screenshots/4.3/SS4.3-2.png", 
+				"http://chevyno1.richstevenson.com/screenshots/4.3/lock.png", 
+				"http://chevyno1.richstevenson.com/screenshots/4.3/center.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.3/left.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.3/right.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.3/pulldown.png"
 			],
-			urls:
+			choices:
 			[
-				"http://chevyno1.richstevenson.com/4.1/SimplyStunning-v4.1-update.zip"
+				{
+					name: "Simply Stunning FROYO v4.3",
+					options:
+					[
+						{
+							name: "Blue Theme",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/SimplyStunning-v4.3-update.zip"
+							]
+						}
+					]
+				},
+				{
+					name: "Add a Kernel?",
+					options:
+					[
+						{
+							name: "No Thanks",
+							urls:
+							[
+								""
+							]
+						},
+						{
+							name: "ChevyNo1 7-slot Ultra Low Voltage 0.8Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
+							]
+						},
+						{
+							name: "ChevyNo1 7-slot Ultra Low Voltage 1.0Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
+							]
+						},
+						{
+							name: "ChevyNo1 7-slot Ultra Low Voltage 1.1Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Ultra Low Voltage 1.2Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Ultra Low Voltage 1.25Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Low Voltage 0.8Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Low Voltage 1.1Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Low Voltage 1.2Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Low Voltage 1.25Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Medium Voltage 0.8Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Medium Voltage 1.0Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Medium Voltage 1.1Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Medium Voltage 1.2Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
+							]
+					    	},
+					    	{
+							name: "ChevyNo1 7-slot Medium Voltage 1.25Ghz",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
+							]
+					    	}
+					]
+				},
+				{
+					name: "Add a Live Wallpaper?",
+					options:
+					[
+						{
+							name: "No Thanks",
+							urls:
+							[
+								""
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Blue",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Blue.zip"
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Red",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Red.zip",
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Green",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Green.zip"
+							]
+						},
+						{
+							name: "Nexus LWP - SS Style Yellow",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Yellow.zip"
+							]
+						}
+					]
+				}
+			],
+			addons:
+			[
+				{
+					name: "MotoTorchLED",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+					]
+				},
+				{
+					name: "TUN (Tunelling)",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/tun.zip"
+					]
+				},
+				{
+					name: "CIFS",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/cifs.zip"
+					]
+				},
+				{
+					name: "NFS",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/nfs.zip"
+					]
+				},
+				{
+					name: "EXT2",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext2.zip"
+					]
+				},
+				{
+					name: "EXT3",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext3.zip"
+					]
+				},
+				{
+					name: "EXT4",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext4.zip"
+					]
+				},
+				{
+					name: "All Of The Above",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/all-fs.zip"
+					]
+				}
 			]
 		},
 		{
