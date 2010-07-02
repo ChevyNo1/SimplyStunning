@@ -18,7 +18,8 @@
 				"http://chevyno1.richstevenson.com/screenshots/4.3/center.jpg",
 				"http://chevyno1.richstevenson.com/screenshots/4.3/left.jpg",
 				"http://chevyno1.richstevenson.com/screenshots/4.3/right.jpg",
-				"http://chevyno1.richstevenson.com/screenshots/4.3/quadrant.jpg"
+				"http://chevyno1.richstevenson.com/screenshots/4.3/quadrant.jpg",
+				"http://chevyno1.richstevenson.com/screenshots/4.3/governor.jpg"
 			],
 			choices:
 			[
@@ -31,14 +32,6 @@
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.3/SimplyStunning-v4.3-update.zip"
-							]
-						},
-						{
-							name: "Blue Energy Theme by roberj13",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/SimplyStunning-v4.3-update.zip",
-								"http://blue.macleod-web.net/Blue%20Energy%20Files/BE%201.0.5.2-SS43.zip"
 							]
 						},
 						{
