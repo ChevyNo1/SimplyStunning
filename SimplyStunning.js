@@ -212,7 +212,7 @@
 					]
 				},
 				{
-					name: "TUN (Tunelling)",
+					name: "TUN (Tunneling)",
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/tun.zip"
