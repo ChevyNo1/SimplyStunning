@@ -32,6 +32,13 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.3/SimplyStunning-v4.3-update.zip"
 							]
+						},
+						{
+							name: "Stock Theme",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.3/SimplyStunning-v4.3-notheme-update.zip"
+							]
 						}
 					]
 				},
