@@ -26,13 +26,6 @@
 					options:
 					[
 						{
-							name: "No Thanks - Show Me Associated Goodies",
-							urls:
-							[
-								""
-							]
-						},
-						{
 							name: "SS Blue Theme",
 							urls:
 							[
@@ -44,6 +37,13 @@
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.4/SimplyStunning-v4.4-notheme-update.zip"
+							]
+						},
+						{
+							name: "No Thanks - Show Me Associated Goodies",
+							urls:
+							[
+								""
 							]
 						}
 					]
