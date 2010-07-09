@@ -6,7 +6,7 @@
 	[
 		{
 			name: "Simply Stunning FROYO v4.4",
-			summary: "7/6/2010 - FRF91 From Source - 360 Degree Desktop/Launcher/Phone - Phone Proximity Sensor Fixed - lots more!",
+			summary: "7/9/2010 - FRF91 From Source - 360 Degree Desktop/Launcher/Phone - Phone Proximity Sensor Fixed - All 4.3 issues resolved - maps/market/nfl/etc!",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 44,
