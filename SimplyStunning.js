@@ -803,7 +803,7 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/SS-Boot-Animation.zip"
 							]
-						},
+						}
 					]
 				}
 			]
