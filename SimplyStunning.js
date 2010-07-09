@@ -796,7 +796,14 @@
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.4/bkapps.zip",
 							]
-						}
+						},
+						{
+							name: "Simply Stunning Boot Animation (Blue X)",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/SS-Boot-Animation.zip"
+							]
+						},
 					]
 				}
 			]
