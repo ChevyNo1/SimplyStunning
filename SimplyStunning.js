@@ -206,30 +206,24 @@
 							]
 						}
 					]
-				},
-				{
-					name: "Add any of these extras?",
-					options:
-					[
-						{
-							name: "MotoTorchLED",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
-							]
-						},
-						{
-							name: "TUN (Tunneling)",
-							urls:
-							[
-								"http://chevyno1.richstevenson.com/froyo/4.3/kernels/tun.zip"
-							]
-						}
-					]
 				}
 			],
 			addons:
 			[
+				{
+					name: "MotoTorchLED",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
+					]
+				},
+				{
+					name: "TUN (Tunneling)",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/tun.zip"
+					]
+				},
 				{
 					name: "CIFS",
 					urls:
@@ -263,13 +257,6 @@
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/ext4.zip"
-					]
-				},
-				{
-					name: "All Of The Above",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/4.3/kernels/all-fs.zip"
 					]
 				}
 			]
