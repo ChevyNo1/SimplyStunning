@@ -174,7 +174,7 @@
 							name: "Blue Energy 1.0.5.2 (theme) by roberj13@DF",
 							urls:
 							[
-								"http://blue.macleod-web.net/Blue%20Energy%20Files/BE1054SS43wPatches.zip"
+								http://blue.macleod-web.net/Blue%20Energy%20Files/BESS44.zip"
 							]
 						},
 						{
