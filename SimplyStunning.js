@@ -26,6 +26,13 @@
 					options:
 					[
 						{
+							name: "No Thanks - Show Me Associated Goodies",
+							urls:
+							[
+								""
+							]
+						},
+						{
 							name: "SS Blue Theme",
 							urls:
 							[
@@ -203,6 +210,26 @@
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Yellow.zip"
+							]
+						}
+					]
+				},
+				{
+					name: "Launcher Options?",
+					options:
+					[
+						{
+							name: "No Thanks",
+							urls:
+							[
+								""
+							]
+						},
+						{
+							name: "2D Launcher (default is 3D Launcher)",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.4/2D-Launcher2.zip"
 							]
 						}
 					]
