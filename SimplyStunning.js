@@ -813,7 +813,7 @@
 							name: "bkapps - flash to my ROM EASILY - End your wiping problem! :)",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.4/bkapps.zip",
+								"http://chevyno1.richstevenson.com/froyo/4.5/bkapps.zip",
 							]
 						},
 						{
