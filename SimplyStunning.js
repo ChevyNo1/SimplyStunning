@@ -573,7 +573,7 @@
 				}
 			]
 		},
-
+		{
 			name: "Froyo Kernels",
 			summary: "7/1/2010 - Includes 7 slot kernels, from 0.8Ghz - 1.25Ghz - Ultra Low Voltage / Low Voltage / Medium Voltage - If you bootloop, either go up in voltage or down in speed",
 			device: "sholes",
