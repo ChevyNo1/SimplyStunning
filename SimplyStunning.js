@@ -179,6 +179,13 @@
 							]
 						},
 						{
+							name: "928Droid 'Black Glass' 2.2",
+							urls:
+							[
+								"http://download646.mediafire.com/h3a48yz65r4g/61gdpal05cxw1b2/928DroidBlackGlass2-2-SS-4-5-update.zip"
+							]
+						},
+						{
 							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
