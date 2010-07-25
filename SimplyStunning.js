@@ -179,6 +179,13 @@
 							]
 						},
 						{
+							name: "roberj13's Blue Energy",
+							urls:
+							[
+								"http://droid-themes.com/downloads/blueenergy/BESS45F.zip"
+							]
+						},
+						{
 							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
