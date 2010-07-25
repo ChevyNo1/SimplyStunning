@@ -18,6 +18,7 @@
 				"http://chevyno1.richstevenson.com/screenshots/4.5/lock.jpg", 
 				"http://chevyno1.richstevenson.com/screenshots/4.5/center.jpg",
 				"http://chevyno1.richstevenson.com/screenshots/4.5/left.jpg",
+				"http://chevyno1.richstevenson.com/screenshots/4.5/right.jpg",
 				"http://chevyno1.richstevenson.com/screenshots/4.5/right.jpg"
 			],
 			choices:
