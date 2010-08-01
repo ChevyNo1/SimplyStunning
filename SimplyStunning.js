@@ -220,10 +220,17 @@
 							]
 						},
 						{
-							name: "2D Launcher (default is 3D Launcher)",
+							name: "2D Launcher - Themed",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.6/Launcher-2D.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.6/Launcher-2D-themed.zip"
+							]
+						},
+						{
+							name: "2D Launcher - Stock",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.6/Launcher-2D-stock.zip"
 							]
 						}
 					]
