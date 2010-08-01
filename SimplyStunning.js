@@ -13,8 +13,6 @@
 		        screenshots: 
 			[ 
 				"http://chevyno1.richstevenson.com/screenshots/4.3/SS4.3-1.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.5/chevyno1.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.5/chevyno1-2.jpg", 
 				"http://chevyno1.richstevenson.com/screenshots/4.6/power.jpg", 
 				"http://chevyno1.richstevenson.com/screenshots/4.6/tools.jpg",
 				"http://chevyno1.richstevenson.com/screenshots/4.6/statusbar.jpg",
