@@ -233,6 +233,44 @@
 						}
 					]
 				}
+			],
+			addons:
+			[
+				{
+					name: "TUN (Tunneling)",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/tun.zip"
+					]
+				},
+				{
+					name: "CIFS",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/cifs.zip"
+					]
+				},
+				{
+					name: "EXT2",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext2.zip"
+					]
+				},
+				{
+					name: "EXT3",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext3.zip"
+					]
+				},
+				{
+					name: "EXT4",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext4.zip"
+					]
+				}
 			]
 		},
 		{
