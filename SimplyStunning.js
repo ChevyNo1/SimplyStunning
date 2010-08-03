@@ -177,6 +177,20 @@
 							]
 						},
 						{
+							name: "roberj13's Alternate Dark",
+							urls:
+							[
+								"http://droid-themes.com/downloads/alternatedark/AlternateDark-SimplyStunning4.6.zip"
+							]
+						},
+						{
+							name: "RichStevenson's Smoked Energy 1.3",
+							urls:
+							[
+								"http://richstevenson.com/droid/1.3/SmokedEnergy-1.3-update.zip"
+							]
+						},
+						{
 							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
