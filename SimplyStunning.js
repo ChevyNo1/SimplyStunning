@@ -256,34 +256,6 @@
 					[
 						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/tun.zip"
 					]
-				},
-				{
-					name: "CIFS",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/cifs.zip"
-					]
-				},
-				{
-					name: "EXT2",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext2.zip"
-					]
-				},
-				{
-					name: "EXT3",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext3.zip"
-					]
-				},
-				{
-					name: "EXT4",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext4.zip"
-					]
 				}
 			]
 		},
@@ -414,34 +386,6 @@
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/tun.zip"
-					]
-				},
-				{
-					name: "CIFS",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/cifs.zip"
-					]
-				},
-				{
-					name: "EXT2",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext2.zip"
-					]
-				},
-				{
-					name: "EXT3",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext3.zip"
-					]
-				},
-				{
-					name: "EXT4",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/ext4.zip"
 					]
 				}
 			]
@@ -681,99 +625,22 @@
 			addons:
 			[
 				{
-					name: "MotoTorchLED",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/4.2/MotoTorchLED.zip"
-					]
-				},
-				{
 					name: "TUN (Tunneling)",
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/kernels/tun.zip"
 					]
-				},
-				{
-					name: "CIFS",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/cifs.zip"
-					]
-				},
-				{
-					name: "NFS",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/nfs.zip"
-					]
-				},
-				{
-					name: "EXT2",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/ext2.zip"
-					]
-				},
-				{
-					name: "EXT3",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/ext3.zip"
-					]
-				},
-				{
-					name: "EXT4",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/ext4.zip"
-					]
 				}
 			]
 		},
 		{
-			name: "Filesystem Support inc Network",
-			summary: "7/5/2010 - Includes popular filesystems such as CIFS/NFS/EXT2/EXT3/EXT4",
+			name: "Filesystem Support",
+			summary: "8/3/2010",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 42,
 			addons:
 			[
-				{
-					name: "CIFS",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/cifs.zip"
-					]
-				},
-				{
-					name: "NFS",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/nfs.zip"
-					]
-				},
-				{
-					name: "EXT2",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/ext2.zip"
-					]
-				},
-				{
-					name: "EXT3",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/ext3.zip"
-					]
-				},
-				{
-					name: "EXT4",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/kernels/ext4.zip"
-					]
-				},
 				{
 					name: "TUN (Tunnelling, ie VPN)",
 					urls:
@@ -857,7 +724,7 @@
 							name: "bkapps - flash to my ROM EASILY - End your wiping problem! :)",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.5/bkapps.zip",
+								"http://chevyno1.richstevenson.com/froyo/4.6/bkapps.zip",
 							]
 						},
 						{
