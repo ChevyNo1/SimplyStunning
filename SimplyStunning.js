@@ -217,7 +217,7 @@
 							]
 						},
 						{
-							name: "ADW Launcher - STRONGLY recommended to remove Launcher2 after install",
+							name: "ADW Launcher",
 							urls:
 							[
 								"http://chevyno1.richstevenson.com/froyo/4.7/ADW.zip"
@@ -250,14 +250,14 @@
 					]
 				},
 				{
-					name: "Droid2 Multitouch Keyboard - REPLACES Stock Keyboard",
+					name: "Droid2 Multitouch Keyboard",
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/4.7/Droid2-MT-Keyboard.zip"
 					]
 				},
 				{
-					name: "Glass + White Pulldown Pandora THEME (app must already be installed)",
+					name: "Pandora THEME",
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/4.7/Pandora.zip"
