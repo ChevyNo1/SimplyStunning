@@ -260,7 +260,7 @@
 					name: "Pandora THEME",
 					urls:
 					[
-						"http://chevyno1.richstevenson.com/froyo/4.7/Pandora.zip"
+						"http://chevyno1.richstevenson.com/froyo/4.7/Pandora-THEME.zip"
 					]
 				}
 			]
