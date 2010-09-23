@@ -6,7 +6,7 @@
 	[
 		{
 			name: "Simply Stunning FROYO v4.8",
-			summary: "9/22/2010 - Built From Source - MORE Statusbar Customization - Too many new things to list!",
+			summary: "9/23/2010 - Built From Source - MORE Statusbar Customization - Too many new things to list!",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 48,
