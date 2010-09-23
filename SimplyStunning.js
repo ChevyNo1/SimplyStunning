@@ -5,36 +5,37 @@
 	roms:
 	[
 		{
-			name: "Simply Stunning FROYO v4.7",
-			summary: "8/18/2010 - Built From Source - MORE Statusbar Customization - Too many new things to list!",
+			name: "Simply Stunning FROYO v4.8",
+			summary: "9/23/2010 - Built From Source - MORE Statusbar Customization - Too many new things to list!",
 			device: "sholes",
 			product: "Simply Stunning",
-			incremental: 47,
+			incremental: 48,
 		        screenshots: 
 			[ 
 				"http://chevyno1.richstevenson.com/screenshots/4.3/SS4.3-1.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.7/lock.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.7/pulldown.jpg",
-				"http://chevyno1.richstevenson.com/screenshots/4.7/cn1_statusbar.png"
+				"http://chevyno1.richstevenson.com/screenshots/4.8/lock.jpg", 
+				"http://chevyno1.richstevenson.com/screenshots/4.8/scripts.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.8/led.png",
+				"http://chevyno1.richstevenson.com/screenshots/4.8/statusbar.png"
 			],
 			choices:
 			[
 				{
-					name: "Simply Stunning FROYO v4.7",
+					name: "Simply Stunning FROYO v4.8",
 					options:
 					[
 						{
 							name: "SS Blue Theme",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.7/SimplyStunning-v4.7-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.8/SimplyStunning-v4.8-update.zip"
 							]
 						},
 						{
 							name: "Stock Theme",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.7/SimplyStunning-v4.7-notheme-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.8/SimplyStunning-v4.8-notheme-update.zip"
 							]
 						},
 						{
@@ -61,111 +62,111 @@
 							name: "ChevyNo1 7-slot Ultra Low Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
 							]
 						},
 						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
 							]
 						},
 						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
 							]
 					    	}
 					]
 				},
 				{
-					name: "Add a Live Wallpaper?",
+					name: "Add a Theme or Live Wallpaper?",
 					options:
 					[
 						{
@@ -250,13 +251,6 @@
 					]
 				},
 				{
-					name: "Droid2 Multitouch Keyboard",
-					urls:
-					[
-						"http://chevyno1.richstevenson.com/froyo/4.7/Droid2-MT-Keyboard.zip"
-					]
-				},
-				{
 					name: "Pandora THEME",
 					urls:
 					[
@@ -267,10 +261,10 @@
 		},
 		{
 			name: "Froyo Kernels",
-			summary: "8/1/2010 - Includes 7 slot kernels, from 0.8Ghz - 1.25Ghz - Ultra Low Voltage / Low Voltage / Medium Voltage - If you bootloop, either go up in voltage or down in speed",
+			summary: "9/22/2010 - Includes 7 slot kernels, from 0.8Ghz - 1.25Ghz - Ultra Low Voltage / Low Voltage / Medium Voltage - If you bootloop, either go up in voltage or down in speed",
 			device: "sholes",
 			product: "Simply Stunning",
-			incremental: 43,
+			incremental: 48,
 			choices:
 			[
 				{
@@ -281,105 +275,105 @@
 							name: "ChevyNo1 7-slot Ultra Low Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
 							]
 						},
 						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
 							]
 						},
 						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
 							]
 					    	}
 					]	
@@ -397,37 +391,36 @@
 			]
 		},
 		{
-			name: "Simply Stunning FROYO v4.6",
-			summary: "8/1/2010 - FRG01 From Source - MASSIVE Changes - Full Statusbar Customization - CPU Temp Monitoring and more!",
+			name: "Simply Stunning FROYO v4.7",
+			summary: "8/18/2010 - Built From Source - MORE Statusbar Customization - Too many new things to list!",
 			device: "sholes",
 			product: "Simply Stunning",
-			incremental: 46,
+			incremental: 47,
 		        screenshots: 
 			[ 
 				"http://chevyno1.richstevenson.com/screenshots/4.3/SS4.3-1.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.6/power.jpg", 
-				"http://chevyno1.richstevenson.com/screenshots/4.6/tools.jpg",
-				"http://chevyno1.richstevenson.com/screenshots/4.6/statusbar.jpg",
-				"http://chevyno1.richstevenson.com/screenshots/4.6/pulldown.jpg"
+				"http://chevyno1.richstevenson.com/screenshots/4.7/lock.jpg", 
+				"http://chevyno1.richstevenson.com/screenshots/4.7/pulldown.jpg",
+				"http://chevyno1.richstevenson.com/screenshots/4.7/cn1_statusbar.png"
 			],
 			choices:
 			[
 				{
-					name: "Simply Stunning FROYO v4.6",
+					name: "Simply Stunning FROYO v4.7",
 					options:
 					[
 						{
 							name: "SS Blue Theme",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.6/SimplyStunning-v4.6-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.7/SimplyStunning-v4.7-update.zip"
 							]
 						},
 						{
 							name: "Stock Theme",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.6/SimplyStunning-v4.6-notheme-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/4.7/SimplyStunning-v4.7-notheme-update.zip"
 							]
 						},
 						{
@@ -454,105 +447,105 @@
 							name: "ChevyNo1 7-slot Ultra Low Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-ulowV-7slot-update.zip"
 							]
 						},
 						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-ulowV-7slot-update.zip"
 							]
 						},
 						{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Ultra Low Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-ulowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Low Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-lowV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 0.8Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-0.8Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.0Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.0Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.1Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.1Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.2Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.2Ghz-medV-7slot-update.zip"
 							]
 					    	},
 					    	{
 							name: "ChevyNo1 7-slot Medium Voltage 1.25Ghz",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/kernels/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
+								"http://chevyno1.richstevenson.com/froyo/kernels2/ChevyNo1-1.25Ghz-medV-7slot-update.zip"
 							]
 					    	}
 					]
@@ -569,17 +562,10 @@
 							]
 						},
 						{
-							name: "roberj13's Alternate Dark",
+							name: "Watermark'D v3.3",
 							urls:
 							[
-								"http://droid-themes.com/downloads/alternatedark/AlternateDark-SimplyStunning4.6.zip"
-							]
-						},
-						{
-							name: "RichStevenson's Smoked Energy 1.3",
-							urls:
-							[
-								"http://richstevenson.com/droid/1.3/SmokedEnergy-1.3-update.zip"
+								"http://www.thememydroid.com/themes/WatermarkD3.3SS4.7.zip"
 							]
 						},
 						{
@@ -624,6 +610,13 @@
 							]
 						},
 						{
+							name: "ADW Launcher",
+							urls:
+							[
+								"http://chevyno1.richstevenson.com/froyo/4.7/ADW.zip"
+							]
+						},
+						{
 							name: "2D Launcher - Themed",
 							urls:
 							[
@@ -647,6 +640,13 @@
 					urls:
 					[
 						"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/tun.zip"
+					]
+				},
+				{
+					name: "Pandora THEME",
+					urls:
+					[
+						"http://chevyno1.richstevenson.com/froyo/4.7/Pandora-THEME.zip"
 					]
 				}
 			]
