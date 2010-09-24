@@ -177,49 +177,49 @@
 							]
 						},
 						{
-							name: "y0rk SS Theme - Blue",
+							name: "y0rk Theme - Blue",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48bluetheme-update.zip"
 							]
 						},
 						{
-							name: "y0rk SS Theme - Green",
+							name: "y0rk Theme - Green",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48greentheme-update.zip"
 							]
 						},
 						{
-							name: "y0rk SS Theme - Orange",
+							name: "y0rk Theme - Orange",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48orangetheme-update.zip"
 							]
 						},
 						{
-							name: "y0rk SS Theme - Pink",
+							name: "y0rk Theme - Pink",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48pinktheme-update.zip"
 							]
 						},
 						{
-							name: "y0rk SS Theme - Red",
+							name: "y0rk Theme - Red",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48redtheme-update.zip"
 							]
 						},
 						{
-							name: "y0rk SS Theme - Silver",
+							name: "y0rk Theme - Silver",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48silvertheme-update.zip"
 							]
 						},
 						{
-							name: "y0rk SS Theme - Yellow",
+							name: "y0rk Theme - Yellow",
 							urls:
 							[
 								"http://www.nu-york.com/droid/theme/ss48/ss48yellowtheme-update.zip"
