@@ -177,6 +177,55 @@
 							]
 						},
 						{
+							name: "y0rk SS Theme - Blue",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48bluetheme-update.zip"
+							]
+						},
+						{
+							name: "y0rk SS Theme - Green",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48greentheme-update.zip"
+							]
+						},
+						{
+							name: "y0rk SS Theme - Orange",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48orangetheme-update.zip"
+							]
+						},
+						{
+							name: "y0rk SS Theme - Pink",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48pinktheme-update.zip"
+							]
+						},
+						{
+							name: "y0rk SS Theme - Red",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48redtheme-update.zip"
+							]
+						},
+						{
+							name: "y0rk SS Theme - Silver",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48silvertheme-update.zip"
+							]
+						},
+						{
+							name: "y0rk SS Theme - Yellow",
+							urls:
+							[
+								"http://www.nu-york.com/droid/theme/ss48/ss48yellowtheme-update.zip"
+							]
+						},
+						{
 							name: "Nexus LWP - SS Style Blue",
 							urls:
 							[
