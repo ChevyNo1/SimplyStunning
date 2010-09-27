@@ -180,49 +180,49 @@
 							name: "y0rk Theme - Blue",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48bluetheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48bluetheme-update.zip"
 							]
 						},
 						{
 							name: "y0rk Theme - Green",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48greentheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48greentheme-update.zip"
 							]
 						},
 						{
 							name: "y0rk Theme - Orange",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48orangetheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48orangetheme-update.zip"
 							]
 						},
 						{
 							name: "y0rk Theme - Pink",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48pinktheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48pinktheme-update.zip"
 							]
 						},
 						{
 							name: "y0rk Theme - Red",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48redtheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48redtheme-update.zip"
 							]
 						},
 						{
 							name: "y0rk Theme - Silver",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48silvertheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48silvertheme-update.zip"
 							]
 						},
 						{
 							name: "y0rk Theme - Yellow",
 							urls:
 							[
-								"http://www.nu-york.com/droid/theme/ss48/ss48yellowtheme-update.zip"
+								"http://www.yorkdroid.com/droid/theme/ss48/ss48yellowtheme-update.zip"
 							]
 						},
 						{
