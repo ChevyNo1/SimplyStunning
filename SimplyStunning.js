@@ -6,7 +6,7 @@
 	[
 		{
 			name: "Simply Stunning FROYO v4.9",
-			summary: "10/31/2010 - Built From Source (2.2.1/FRG83)",
+			summary: "10/31/2010 - Built From Source - 2.2.1/FRG83",
 			device: "sholes",
 			product: "Simply Stunning",
 			incremental: 49,
@@ -905,7 +905,7 @@
 							name: "bkapps - flash to my ROM EASILY - End your wiping problem! :)",
 							urls:
 							[
-								"http://chevyno1.richstevenson.com/froyo/4.9/bkapps.zip",
+								"http://chevyno1.richstevenson.com/froyo/4.6/bkapps.zip",
 							]
 						},
 						{
