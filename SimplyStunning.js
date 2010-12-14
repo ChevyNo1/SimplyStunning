@@ -1,7 +1,5 @@
 {
 	version: 1,
-	homepage: "http://www.droidforums.net/forum/chevyno1/",
-	donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GJYJRL97SAB3J",
 	roms:
 	[
 		{
