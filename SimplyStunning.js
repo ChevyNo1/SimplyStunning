@@ -236,23 +236,6 @@ roms:
 					}
 				]
 			}
-		],
-		addons:
-		[
-			{
-				name: "TUN (Tunneling)",
-				urls:
-				[
-					"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/tun.zip"
-				]
-			},
-			{
-				name: "Pandora THEME",
-				urls:
-				[
-					"http://chevyno1.richstevenson.com/froyo/4.7/Pandora-THEME.zip"
-				]
-			}
 		]
 	},
 	{
@@ -373,84 +356,6 @@ roms:
 						]
 					}
 				]	
-			}
-		],
-		addons:
-		[
-			{
-				name: "TUN (Tunneling)",
-				urls:
-				[
-					"http://chevyno1.richstevenson.com/froyo/kernels/network-filesystems/tun.zip"
-				]
-			}
-		]
-	},
-	{
-		name: "Filesystem Support",
-		summary: "8/3/2010",
-		device: "sholes",
-		product: "Simply Stunning",
-		incremental: 42,
-		addons:
-		[
-			{
-				name: "TUN (Tunnelling, ie VPN)",
-				urls:
-				[
-					"http://chevyno1.richstevenson.com/froyo/kernels/tun.zip"
-				]
-			}
-		]
-	},
-	{
-		name: "Nexus Live Wallpaper Options",
-		summary: "6/25/2010 - Various Nexus LWP Color Options",
-		device: "sholes",
-		product: "Simply Stunning",
-		incremental: 42,
-		choices:
-		[
-			{
-				name: "Nexus Live Wallpapers",
-				options:
-				[
-					{
-						name: "Nexus LWP - SS Style Silver/Blue",
-						urls:
-						[
-							"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Silver-Blue.zip"
-						]
-					},
-					{
-						name: "Nexus LWP - SS Style Blue",
-						urls:
-						[
-							"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Blue.zip"
-						]
-					},
-					{
-						name: "Nexus LWP - SS Style Red",
-						urls:
-						[
-							"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Red.zip",
-						]
-					},
-					{
-						name: "Nexus LWP - SS Style Green",
-						urls:
-						[
-							"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Green.zip"
-						]
-					},
-					{
-						name: "Nexus LWP - SS Style Yellow",
-						urls:
-						[
-							"http://chevyno1.richstevenson.com/froyo/4.2/Nexus-SS-Yellow.zip"
-						]
-					}
-				]
 			}
 		]
 	}
