@@ -165,7 +165,7 @@
 					]
 				},
 				{
-					name: "Add a Live Wallpaper?",
+					name: "Add a Theme or Live Wallpaper?",
 					options:
 					[
 						{
@@ -173,6 +173,13 @@
 							urls:
 							[
 								""
+							]
+						},
+						{
+							name: "Watermark'D v3.3",
+							urls:
+							[
+								"http://www.thememydroid.com/themes/WatermarkD3.3SS4.7.zip"
 							]
 						},
 						{
